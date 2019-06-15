@@ -1,5 +1,7 @@
 # Document Click Effect
 
+![preview](./preview.gif)
+
 Adds simple effect when user clicks the page
 
 ```You need to add <div id="clickEffect"></div> in HTML```
